@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Tio Setia Hati and I'm a Devops & Site Reliability Engineer, from Indonesia</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is Tio Setia Hati and I'm a Devops & Site Reliability Engineer</h2>
 
 ###
 
